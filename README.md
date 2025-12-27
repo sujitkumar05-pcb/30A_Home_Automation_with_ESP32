@@ -21,5 +21,11 @@ Complete project files: schematic, PCB layout, Gerbers, BOM, 3D view
 Suitable for smart home, IoT, and industrial automation applications
 
 
+All output files are available, including schematic, PCB layout, Gerber files, BOM, and 3D view for fabrication and reuse.
+
+
+
+
+
 
 A to Z
