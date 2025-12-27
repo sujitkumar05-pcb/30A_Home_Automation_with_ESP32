@@ -1,0 +1,12 @@
+Plotted to 'D:\Sujit PCB\All in one PCB project\my Self pcb\30A_Home_Automation_with_ESP32\gerber\30A_Home_Automation_with_ESP32-F_Cu.gbr'.
+Plotted to 'D:\Sujit PCB\All in one PCB project\my Self pcb\30A_Home_Automation_with_ESP32\gerber\30A_Home_Automation_with_ESP32-B_Cu.gbr'.
+Plotted to 'D:\Sujit PCB\All in one PCB project\my Self pcb\30A_Home_Automation_with_ESP32\gerber\30A_Home_Automation_with_ESP32-F_Paste.gbr'.
+Plotted to 'D:\Sujit PCB\All in one PCB project\my Self pcb\30A_Home_Automation_with_ESP32\gerber\30A_Home_Automation_with_ESP32-B_Paste.gbr'.
+Plotted to 'D:\Sujit PCB\All in one PCB project\my Self pcb\30A_Home_Automation_with_ESP32\gerber\30A_Home_Automation_with_ESP32-F_Silkscreen.gbr'.
+Plotted to 'D:\Sujit PCB\All in one PCB project\my Self pcb\30A_Home_Automation_with_ESP32\gerber\30A_Home_Automation_with_ESP32-B_Silkscreen.gbr'.
+Plotted to 'D:\Sujit PCB\All in one PCB project\my Self pcb\30A_Home_Automation_with_ESP32\gerber\30A_Home_Automation_with_ESP32-F_Mask.gbr'.
+Plotted to 'D:\Sujit PCB\All in one PCB project\my Self pcb\30A_Home_Automation_with_ESP32\gerber\30A_Home_Automation_with_ESP32-B_Mask.gbr'.
+Plotted to 'D:\Sujit PCB\All in one PCB project\my Self pcb\30A_Home_Automation_with_ESP32\gerber\30A_Home_Automation_with_ESP32-Edge_Cuts.gbr'.
+Created Gerber job file 'D:\Sujit PCB\All in one PCB project\my Self pcb\30A_Home_Automation_with_ESP32\gerber\30A_Home_Automation_with_ESP32-job.gbrjob'.
+Info: Done.
+Info: Done.

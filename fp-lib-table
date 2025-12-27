@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PR13-5V-450-1C")(type "KiCad")(uri "D:/Sujit PCB/PR13-5V-450-1C")(options "")(descr ""))
+  (lib (name "kicad-footprints-master")(type "KiCad")(uri "D:/Sujit PCB/kicad-footprints-master")(options "")(descr ""))
+  (lib (name "TerminalBlock")(type "KiCad")(uri "D:/Sujit PCB/kicad-footprints-master/TerminalBlock.pretty")(options "")(descr ""))
+)
