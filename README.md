@@ -58,9 +58,8 @@ Protection components such as fuses, flyback diodes, and filtering circuits are 
 
 
 - **PCB Layout**
-
  <img width="435" height="464" alt="image" src="https://github.com/user-attachments/assets/5e5f7598-d853-430d-8f61-1186618ec744" />
-<img width="437" height="465" alt="image" src="https://github.com/user-attachments/assets/523bfe6b-55ca-461c-9c3a-f0bd94e4d66e" />
+ <img width="437" height="465" alt="image" src="https://github.com/user-attachments/assets/523bfe6b-55ca-461c-9c3a-f0bd94e4d66e" />
 
 - **3D View**
   
