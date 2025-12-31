@@ -49,39 +49,28 @@ Protection components such as fuses, flyback diodes, and filtering circuits are 
 ## 6. Bill of Materials (BOM)
 ##Power Supply & Protection
 | Reference  | Qty | Value / Part No.      | Footprint        | Datasheet          |
-| ---------- | --- | --------------------- | ---------------- | ------------------ |
 | **PS1**    | 1   | HLK-PM01 AC-DC Module | Hi-Link_HLK-PMxx | HLK-PM01 Datasheet |
 | **U4**     | 1   | AMS1117-3.3           | TO-252-3         | AMS1117 Datasheet  |
 | **C1**     | 1   | 10 µF                 | C_0805           | –                  |
 | **C2**     | 1   | 22 µF                 | C_0805           | –                  |
 | **D2, D3** | 2   | 1N4148                | DO-35 (THT)      | Nexperia 1N4148    |
 ##Controller & Interface
-| Reference    | Qty | Value / Part No. | Footprint | Datasheet       |
-| ------------ | --- | ---------------- | --------- | --------------- |
 | **U1**       | 1   | ESP32-WROOM-32   | RF_Module | Espressif ESP32 |
 | **SW1, SW2** | 2   | Push Button      | 6mm THT   | –               |
 | **D1, D4**   | 2   | LED              | LED_0805  | –               |
 ##Relay & Driver Stage
-| Reference  | Qty | Value / Part No.     | Footprint      | Datasheet       |
-| ---------- | --- | -------------------- | -------------- | --------------- |
 | **K1**     | 1   | RAYEX-L90AS Relay    | Relay_SPST_THT | RAYEX L90       |
 | **K2**     | 1   | PR13-5V-450-1C Relay | PR13 THT       | –               |
 | **Q1, Q2** | 2   | S8050 Transistor     | TO-92          | S8050 Datasheet |
 | **U2, U3** | 2   | PC817 Optocoupler    | DIP-4          | PC817 Datasheet |
 ##Passive Components
-| Reference  | Qty | Value | Footprint |
-| ---------- | --- | ----- | --------- |
 | **R1–R6**  | 6   | 1 kΩ  | R_0805    |
 | **R7, R8** | 2   | 10 kΩ | R_0805    |
 ##Connectors
-| Reference | Qty | Description          | Footprint            |
-| --------- | --- | -------------------- | -------------------- |
 | **J1**    | 1   | 1×4 Pin Header       | PinHeader_2.54 mm    |
 | **J2**    | 1   | 4-Pin Screw Terminal | Phoenix MSTB 5.08 mm |
 | **J3**    | 1   | 3-Pin Screw Terminal | Phoenix MSTB 5.08 mm |
 ##Mechanical (Excluded from BOM)
-| Reference | Qty | Description        | Footprint           |
-| --------- | --- | ------------------ | ------------------- |
 | **H1–H4** | 4   | Mounting Hole M2.5 | MountingHole_2.7 mm |
 
 
