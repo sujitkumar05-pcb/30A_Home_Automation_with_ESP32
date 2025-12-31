@@ -6,7 +6,6 @@
 
 -----
 
-
 ## 2. Key Learning Objectives
 
 Understanding high-current (30A) PCB design and safety considerations
@@ -29,8 +28,7 @@ Generating manufacturing (Gerber) and 3D output files
   - PCB Layout Editor  
   - 3D Viewer
  
-
-    ---
+ ---
 
 ## 4. Project Files
 - Schematic design files (`.kicad_sch`)  
@@ -61,6 +59,7 @@ Protection components such as fuses, flyback diodes, and filtering circuits are 
 <img width="437" height="465" alt="image" src="https://github.com/user-attachments/assets/523bfe6b-55ca-461c-9c3a-f0bd94e4d66e" />
 
 - **3D View**
+  
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e6aea03b-88b7-43d5-882f-bd5dd21f23fd" />
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/99e1a283-d1b9-42d0-bef6-dfff281cc5e9" />
 
