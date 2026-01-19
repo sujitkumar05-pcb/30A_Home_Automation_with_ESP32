@@ -72,8 +72,6 @@ Protection components such as fuses, flyback diodes, and filtering circuits are 
 ## 7. Images & Renders
 
 - **Schematic**
- <img width="1156" height="802" alt="image" src="https://github.com/user-attachments/assets/58c0e51d-bcfa-410f-92cf-de941da9adf7" />
-
 
 - **PCB Layout**
  
