@@ -82,9 +82,6 @@ Protection components such as fuses, flyback diodes, and filtering circuits are 
 - **3D View**
   <img width="895" height="853" alt="image" src="https://github.com/user-attachments/assets/91b236e9-19fb-48d6-a62c-44df982f3287" />
 
-  
----
-
 ## 8. Disclaimer
 This project is intended for educational and experimental purposes only. It involves high-voltage and high-current (up to 30A) circuits, which can be dangerous if handled improperly. The author is not responsible for any damage, injury, or loss resulting from the use, modification, or implementation of this design.
 
