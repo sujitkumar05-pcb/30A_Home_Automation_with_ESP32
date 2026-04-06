@@ -85,13 +85,12 @@ Protection components such as fuses, flyback diodes, and filtering circuits are 
 
 ## 8. Disclaimer
 This project is intended for educational and experimental purposes only. It involves high-voltage and high-current (up to 30A) circuits, which can be dangerous if handled improperly. The author is not responsible for any damage, injury, or loss resulting from the use, modification, or implementation of this design.
-
 Users are advised to follow proper electrical safety standards, use appropriate protective components, and verify the design thoroughly before real-world deployment
 
 ---
 
 ## 9. Author
-- **Name:** SUJIT KUMAR
+- **Name:** Er.SUJIT KUMAR
 - **Toolchain:** KiCad EDA  
 
 
